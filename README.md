@@ -1,5 +1,6 @@
-# datavisualization
+# Data Visualization
 It's a project in Class DataVisualization.
 
-- Data source: WDI 
-- using: python plotly.express to plot
+- Data source: WDI Data
+- Tools: Python plotly.express/matplotlib to plot
+- 
