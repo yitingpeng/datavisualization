@@ -14,4 +14,8 @@ It's a project in Class Data Visualization in 2019 Semester 2.
     - Histrogram Animation
 4. Step 4 : Combine into web
 
+    There is a local web when running out the dash related codes.
 5. Step 5 : upload to Heroku (unsolved)
+
+    It needs a file including `main.py` `requirements.txt` `runtime.txt` `Procfile`.
+    In the Heroku website, it helps to construct the website by some git command.
